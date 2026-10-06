@@ -64,8 +64,6 @@ Security Alerts
 
 | Event | Detection |
 
-|---|---|
-
 | 5+ HTTP 401 responses within 60 seconds | Possible brute-force attack |
 
 | 3+ HTTP 403 responses within 60 seconds | Possible restricted-resource probing |
