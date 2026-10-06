@@ -1,0 +1,4 @@
+security.log
+alerts.log
+__pycache__/
+*.pyc
